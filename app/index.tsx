@@ -4,8 +4,10 @@ import React from "react";
 
 const index = () => {
     return (
-        <View>
+        <View >
             <Text>index</Text>
         </View>
     )
 }
+
+export default index;
